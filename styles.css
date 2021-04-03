@@ -19,6 +19,7 @@ input[type="text"]:focus {
 }
 .todos li {
   background: #f0534f;
+  opacity: 0.9;
 }
 .delete {
   cursor: pointer;
